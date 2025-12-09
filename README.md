@@ -2,7 +2,7 @@
 Auto solve live worksheets with js
 
 
-# How to use
+# How to use (Work on dropdown)
 1. `F12` go to Console
 2. copy this code
  ```js
